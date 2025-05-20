@@ -1,1 +1,1 @@
-print ("Kecske pasztor") 
+print ("Kekcse simogato kis allatka")
