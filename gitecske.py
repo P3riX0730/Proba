@@ -1,0 +1,1 @@
+print "Szeretem az oziket" 
