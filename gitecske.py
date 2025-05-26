@@ -1,1 +1,1 @@
-print "Szeretem az oziket" 
+print "Szeretem az oziket meg a husospalacsintat"
